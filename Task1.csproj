@@ -1,0 +1,71 @@
+﻿// See https://aka.ms/new-console-template for more information
+//Task 1 Question 1 :
+    string? name;
+    double salary;
+    char userId;
+    bool single;
+    int Age;
+    const int MaxSize = 10;
+
+Console.WriteLine("Please Enter your Name :");
+name = Console.ReadLine();
+Console.WriteLine("Please Enter your Salary :");
+salary = double.Parse(Console.ReadLine());
+Console.WriteLine("Please Enter your Id :");
+userId = char.Parse(Console.ReadLine());
+Console.WriteLine("Are you Single :");
+single = bool.Parse(Console.ReadLine());
+Console.WriteLine("Please Enter your Age  :");
+Age = int.Parse(Console.ReadLine());
+
+ void  accountInformation()
+    {
+
+    Console.WriteLine("Name :"+name+"\n"+"Age :"+Age+"\n"+"Salary :"+"\n"+"Single :"+"\n"+"Age :"+Age);
+
+    }
+accountInformation();
+
+//Question 2
+//Define array with name car that hold more than 3 kinds on cars, then print all the cars with the array length.
+void question2()
+{
+    string[] car = new string[3] {"Ferrari","Marcceds","Boughati"};
+    foreach(string car2 in car)
+    {
+        Console.WriteLine("Car Name :" + car2);
+    }
+    Console.WriteLine("Array of Cars Length " + car.Length);
+
+}
+question2();
+
+void question3()
+    {
+
+    /*Write a program in C that reads a first name, surname and year of birth and display the names and the year one after another sequentially. Go to the editor
+    Input your firstname: Sami
+    Input your lastname: Ali
+    Input your year of birth: 1999
+    Sami Ali 1999*/
+
+
+    string[] userInfo = new string[3];
+    Console.WriteLine("Input your firstname :");
+    userInfo[0] = Console.ReadLine();
+
+    Console.WriteLine("Input your surname :");
+    userInfo[1] = Console.ReadLine();
+
+    Console.WriteLine("Input your year of birth :");
+    userInfo[2] = Console.ReadLine();
+    foreach (string userInfo2 in userInfo)
+    {
+        {
+            Console.Write(" ," + userInfo2);
+        }
+
+    }
+    question3();    
+
+}
