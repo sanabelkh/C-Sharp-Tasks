@@ -1,0 +1,15 @@
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\bin\Debug\net8.0\task six.exe
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\bin\Debug\net8.0\task six.deps.json
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\bin\Debug\net8.0\task six.runtimeconfig.json
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\bin\Debug\net8.0\task six.dll
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\bin\Debug\net8.0\task six.pdb
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\obj\Debug\net8.0\task six.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\obj\Debug\net8.0\task six.AssemblyInfoInputs.cache
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\obj\Debug\net8.0\task six.AssemblyInfo.cs
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\obj\Debug\net8.0\task six.csproj.CoreCompileInputs.cache
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\obj\Debug\net8.0\task six.sourcelink.json
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\obj\Debug\net8.0\task six.dll
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\obj\Debug\net8.0\refint\task six.dll
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\obj\Debug\net8.0\task six.pdb
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\obj\Debug\net8.0\task six.genruntimeconfig.cache
+C:\Users\hmaje\Desktop\csharp tasks\task six\task six\obj\Debug\net8.0\ref\task six.dll

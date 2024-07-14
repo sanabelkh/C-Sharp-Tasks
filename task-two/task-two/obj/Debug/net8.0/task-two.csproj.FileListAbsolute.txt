@@ -1,0 +1,15 @@
+C:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\bin\Debug\net8.0\task-two.exe
+C:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\bin\Debug\net8.0\task-two.deps.json
+C:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\bin\Debug\net8.0\task-two.runtimeconfig.json
+C:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\bin\Debug\net8.0\task-two.dll
+C:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\bin\Debug\net8.0\task-two.pdb
+C:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\obj\Debug\net8.0\task-two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\obj\Debug\net8.0\task-two.AssemblyInfoInputs.cache
+C:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\obj\Debug\net8.0\task-two.AssemblyInfo.cs
+C:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\obj\Debug\net8.0\task-two.csproj.CoreCompileInputs.cache
+C:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\obj\Debug\net8.0\task-two.dll
+C:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\obj\Debug\net8.0\refint\task-two.dll
+C:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\obj\Debug\net8.0\task-two.pdb
+C:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\obj\Debug\net8.0\task-two.genruntimeconfig.cache
+C:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\obj\Debug\net8.0\ref\task-two.dll
+c:\Users\hmaje\Desktop\csharp tasks\task-two\task-two\obj\Debug\net8.0\task-two.sourcelink.json

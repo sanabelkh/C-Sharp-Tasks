@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hmaje\\Desktop\\csharp tasks\\tassk three\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF5C9EC-845B-4419-8402-5EBA2FF58F58}|tassk three\\tassk three.csproj|c:\\users\\hmaje\\desktop\\csharp tasks\\tassk three\\tassk three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF5C9EC-845B-4419-8402-5EBA2FF58F58}|tassk three\\tassk three.csproj|solutionrelative:tassk three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmaje\\Desktop\\csharp tasks\\tassk three\\tassk three\\Program.cs",
+              "RelativeDocumentMoniker": "tassk three\\Program.cs",
+              "ToolTip": "C:\\Users\\hmaje\\Desktop\\csharp tasks\\tassk three\\tassk three\\Program.cs",
+              "RelativeToolTip": "tassk three\\Program.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAiwGoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:52:57.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

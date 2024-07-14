@@ -1,0 +1,14 @@
+C:\Users\hmaje\Desktop\csharp tasks\task-one\task-one\bin\Debug\net8.0\task-one.exe
+C:\Users\hmaje\Desktop\csharp tasks\task-one\task-one\bin\Debug\net8.0\task-one.deps.json
+C:\Users\hmaje\Desktop\csharp tasks\task-one\task-one\bin\Debug\net8.0\task-one.runtimeconfig.json
+C:\Users\hmaje\Desktop\csharp tasks\task-one\task-one\bin\Debug\net8.0\task-one.dll
+C:\Users\hmaje\Desktop\csharp tasks\task-one\task-one\bin\Debug\net8.0\task-one.pdb
+C:\Users\hmaje\Desktop\csharp tasks\task-one\task-one\obj\Debug\net8.0\task-one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmaje\Desktop\csharp tasks\task-one\task-one\obj\Debug\net8.0\task-one.AssemblyInfoInputs.cache
+C:\Users\hmaje\Desktop\csharp tasks\task-one\task-one\obj\Debug\net8.0\task-one.AssemblyInfo.cs
+C:\Users\hmaje\Desktop\csharp tasks\task-one\task-one\obj\Debug\net8.0\task-one.csproj.CoreCompileInputs.cache
+C:\Users\hmaje\Desktop\csharp tasks\task-one\task-one\obj\Debug\net8.0\task-one.dll
+C:\Users\hmaje\Desktop\csharp tasks\task-one\task-one\obj\Debug\net8.0\refint\task-one.dll
+C:\Users\hmaje\Desktop\csharp tasks\task-one\task-one\obj\Debug\net8.0\task-one.pdb
+C:\Users\hmaje\Desktop\csharp tasks\task-one\task-one\obj\Debug\net8.0\task-one.genruntimeconfig.cache
+C:\Users\hmaje\Desktop\csharp tasks\task-one\task-one\obj\Debug\net8.0\ref\task-one.dll

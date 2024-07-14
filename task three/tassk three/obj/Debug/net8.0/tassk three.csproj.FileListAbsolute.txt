@@ -1,0 +1,15 @@
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\bin\Debug\net8.0\tassk three.exe
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\bin\Debug\net8.0\tassk three.deps.json
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\bin\Debug\net8.0\tassk three.runtimeconfig.json
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\bin\Debug\net8.0\tassk three.dll
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\bin\Debug\net8.0\tassk three.pdb
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\obj\Debug\net8.0\tassk three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\obj\Debug\net8.0\tassk three.AssemblyInfoInputs.cache
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\obj\Debug\net8.0\tassk three.AssemblyInfo.cs
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\obj\Debug\net8.0\tassk three.csproj.CoreCompileInputs.cache
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\obj\Debug\net8.0\tassk three.sourcelink.json
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\obj\Debug\net8.0\tassk three.dll
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\obj\Debug\net8.0\refint\tassk three.dll
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\obj\Debug\net8.0\tassk three.pdb
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\obj\Debug\net8.0\tassk three.genruntimeconfig.cache
+C:\Users\hmaje\Desktop\csharp tasks\tassk three\tassk three\obj\Debug\net8.0\ref\tassk three.dll

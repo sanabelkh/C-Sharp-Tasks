@@ -1,0 +1,15 @@
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\bin\Debug\net8.0\task ten.exe
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\bin\Debug\net8.0\task ten.deps.json
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\bin\Debug\net8.0\task ten.runtimeconfig.json
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\bin\Debug\net8.0\task ten.dll
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\bin\Debug\net8.0\task ten.pdb
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\obj\Debug\net8.0\task ten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\obj\Debug\net8.0\task ten.AssemblyInfoInputs.cache
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\obj\Debug\net8.0\task ten.AssemblyInfo.cs
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\obj\Debug\net8.0\task ten.csproj.CoreCompileInputs.cache
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\obj\Debug\net8.0\task ten.sourcelink.json
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\obj\Debug\net8.0\task ten.dll
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\obj\Debug\net8.0\refint\task ten.dll
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\obj\Debug\net8.0\task ten.pdb
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\obj\Debug\net8.0\task ten.genruntimeconfig.cache
+C:\Users\hmaje\Desktop\csharp tasks\task ten\task ten\obj\Debug\net8.0\ref\task ten.dll

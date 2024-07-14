@@ -1,0 +1,15 @@
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\bin\Debug\net8.0\task seven.exe
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\bin\Debug\net8.0\task seven.deps.json
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\bin\Debug\net8.0\task seven.runtimeconfig.json
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\bin\Debug\net8.0\task seven.dll
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\bin\Debug\net8.0\task seven.pdb
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\obj\Debug\net8.0\task seven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\obj\Debug\net8.0\task seven.AssemblyInfoInputs.cache
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\obj\Debug\net8.0\task seven.AssemblyInfo.cs
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\obj\Debug\net8.0\task seven.csproj.CoreCompileInputs.cache
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\obj\Debug\net8.0\task seven.sourcelink.json
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\obj\Debug\net8.0\task seven.dll
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\obj\Debug\net8.0\refint\task seven.dll
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\obj\Debug\net8.0\task seven.pdb
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\obj\Debug\net8.0\task seven.genruntimeconfig.cache
+C:\Users\hmaje\Desktop\csharp tasks\task seven\task seven\obj\Debug\net8.0\ref\task seven.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hmaje\\Desktop\\csharp tasks\\task-two\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3450208-5978-46B9-A7F9-4DE14DAACB87}|task-two\\task-two.csproj|c:\\users\\hmaje\\desktop\\csharp tasks\\task-two\\task-two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3450208-5978-46B9-A7F9-4DE14DAACB87}|task-two\\task-two.csproj|solutionrelative:task-two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmaje\\Desktop\\csharp tasks\\task-two\\task-two\\Program.cs",
+              "RelativeDocumentMoniker": "task-two\\Program.cs",
+              "ToolTip": "C:\\Users\\hmaje\\Desktop\\csharp tasks\\task-two\\task-two\\Program.cs",
+              "RelativeToolTip": "task-two\\Program.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAwwHYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:46:08.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

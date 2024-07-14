@@ -1,0 +1,15 @@
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\bin\Debug\net8.0\task nine.exe
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\bin\Debug\net8.0\task nine.deps.json
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\bin\Debug\net8.0\task nine.runtimeconfig.json
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\bin\Debug\net8.0\task nine.dll
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\bin\Debug\net8.0\task nine.pdb
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\obj\Debug\net8.0\task nine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\obj\Debug\net8.0\task nine.AssemblyInfoInputs.cache
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\obj\Debug\net8.0\task nine.AssemblyInfo.cs
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\obj\Debug\net8.0\task nine.csproj.CoreCompileInputs.cache
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\obj\Debug\net8.0\task nine.sourcelink.json
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\obj\Debug\net8.0\task nine.dll
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\obj\Debug\net8.0\refint\task nine.dll
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\obj\Debug\net8.0\task nine.pdb
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\obj\Debug\net8.0\task nine.genruntimeconfig.cache
+C:\Users\hmaje\Desktop\csharp tasks\task nine\task nine\obj\Debug\net8.0\ref\task nine.dll
